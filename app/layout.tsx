@@ -1,1 +1,0 @@
-import type{Metadata}from"next";import"./globals.css";export const metadata:Metadata={title:"OSHI TRIP｜韓国・台湾の推し活旅行・イベント通知",description:"韓国・台湾の推し活イベント、チアイベント、旅行予約、eSIM、持ち物準備を通知でまとめる旅行ガイド。",robots:{index:false,follow:false}};export default function Layout({children}:{children:React.ReactNode}){return <html lang="ja"><body>{children}</body></html>}
