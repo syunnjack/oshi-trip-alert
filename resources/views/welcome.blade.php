@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="ja">
 <head>
+  <meta name="google-site-verification" content="cYjJQiqgL9HWFYNw5L4Alofflfvf0WAY2MgpJ3E0-vE" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>OSHI TRIP｜韓国・台湾の推し活遠征 準備ガイド</title>
