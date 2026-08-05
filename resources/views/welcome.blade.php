@@ -10,7 +10,7 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="OSHI TRIP｜韓国・台湾の推し活遠征 準備ガイド">
   <meta property="og:description" content="韓国・台湾への推し活遠征に向けた準備ガイドと、渡航前の通知サービス。">
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"OSHI TRIP","url":"{{ url('/') }}"}</script>
+  <script type="application/ld+json">{"@@context":"https://schema.org","@@type":"WebSite","name":"OSHI TRIP","url":"{{ url('/') }}"}</script>
 
   @if(config('services.ga4.id'))
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ config('services.ga4.id') }}"></script>
